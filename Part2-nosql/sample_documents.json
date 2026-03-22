@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "P101",
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 30000,
+    "brand": "Samsung",
+    "specs": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "battery": "5000mAh"
+    },
+    "features": ["5G", "AMOLED Display", "Fast Charging"]
+  },
+  {
+    "product_id": "P102",
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 800,
+    "brand": "Nike",
+    "size": ["S", "M", "L", "XL"],
+    "material": "Cotton",
+    "color": "Black"
+  },
+  {
+    "product_id": "P103",
+    "name": "Milk Pack",
+    "category": "Groceries",
+    "price": 60,
+    "brand": "Amul",
+    "expiry_date": "2024-12-30",
+    "nutrition": {
+      "calories": 150,
+      "fat": "3.5g",
+      "protein": "8g"
+    }
+  }
+]
